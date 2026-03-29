@@ -143,7 +143,7 @@ python clean_data.py
 
 | Metric | Value |
 |--------|-------|
-| Total Products | 300+ |
+| Total Products | 700+ |
 | Brands Covered | HP, Lenovo, ASUS, Acer, Dell, Samsung, MSI, Apple and more |
 | Price Range | ₹14,990 — ₹2,00,000+ |
 | Average Rating | ~4.1 / 5 |
